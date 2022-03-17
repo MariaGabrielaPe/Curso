@@ -1,5 +1,5 @@
 {
-  "name": "Flow01",
+  "name": "Flowswitch",
   "description": "Processo em Branco",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "13bd85d8-704f-4a01-9212-55e251ed792d",
+      "uniqueId": "6348026c-aa38-42b6-b723-95c2ab758632",
       "input": [],
       "output": []
     }
