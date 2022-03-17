@@ -1,5 +1,5 @@
 {
-  "name": "Ultimo Desafio",
+  "name": "Flow01",
   "description": "Processo em Branco",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "7f0bbd5b-aa73-44ff-9462-5555817c4eb9",
+      "uniqueId": "13bd85d8-704f-4a01-9212-55e251ed792d",
       "input": [],
       "output": []
     }
